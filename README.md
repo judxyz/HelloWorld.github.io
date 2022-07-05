@@ -7,7 +7,7 @@ Checklist
 - This is a list
 
 To Do List ... a different organization
-- [] first task
+- [x] first task
 - [] second task
 - [] third task
 
